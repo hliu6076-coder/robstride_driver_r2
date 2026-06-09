@@ -1,0 +1,10 @@
+.vscode
+build
+log
+install
+el_a3_ros/EDULITE_A3/meshes/
+el_a3_ros/EDULITE-A3/meshes/
+el_a3_ros/el_a3_description/meshes/
+el_a3_ros/el_a3_description/meshes/
+el_a3_sdk/resources/meshes/
+el_a3_sdk/resources/meshes/
